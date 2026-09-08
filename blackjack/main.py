@@ -12,5 +12,5 @@ print("8. Se o dealer e o jogador tiverem o mesmo valor, é um empate.")
 
 cartas = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A']
 cartas_valores = {'2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, 'J': 10, 'Q': 10, 'K': 10, 'A': 1 or 11}
-
+print("nobru apelaaooo")
 
